@@ -1,0 +1,28 @@
+# Rust & Cargo
+/target/
+
+# IDEs & Editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.tmproj/
+
+# Operating System Files
+.DS_Store
+._*
+Thumbs.db
+
+# Local Environment & Secrets
+.env
+*.env
+.env.*
+!/.env.example
+!/.env.sample
+
+# Log files
+*.log
+logs/
+
+# Other
+*.rs.bk # Rustup backup files
