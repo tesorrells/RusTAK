@@ -1,6 +1,6 @@
 [package]
 name = "rustak"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "RusTAK is a Rust library for interacting with ATAK, WinTAK, TAK Server, and other TAK-enabled products."
 authors = ["Trevor Sorrells <trevor.sorrells45@gmail.com>"]
