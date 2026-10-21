@@ -28,7 +28,7 @@ anyhow = "1.0.75"
 tokio-rustls = "0.24.1"
 native-tls = "0.2.11"
 rustls-pemfile = "1.0.3"
-webpki-roots = "0.25.2"
+webpki-roots = "1.0.10"
 
 [lib]
 name = "rustak"
